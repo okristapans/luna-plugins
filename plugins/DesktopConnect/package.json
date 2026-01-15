@@ -1,11 +1,11 @@
 {
-	"name": "DesktopConnect",
+	"name": "TidalDesktopConnect",
 	"description": "Remote control the TIDAL Desktop client via TIDAL Connect",
-	"homepage": "https://github.com/Inrixia/luna-plugins#DesktopConnect",
+	"homepage": "https://github.com/okristapans/luna-plugins#DesktopConnect",
 	"author": {
-		"name": "Inrixia",
-		"url": "https://github.com/Inrixia",
-		"avatarUrl": "https://2.gravatar.com/avatar/eeaffef9eb9b436dccc58c6c44c9fe8c3528e83e3bf64e1c736a68dbe8c097d3"
+		"name": "Jeff",
+		"url": "https://github.com/okristapans",
+		"avatarUrl": ""
 	},
 	"exports": "./src/index.ts",
 	"dependencies": {
